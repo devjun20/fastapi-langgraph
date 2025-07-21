@@ -5,9 +5,11 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "fastapi[standard]>=0.116.1",
     "langchain>=0.3.26",
     "langchain-groq>=0.3.6",
     "langgraph>=0.5.3",
     "langgraph-cli[inmem]>=0.3.5",
     "python-dotenv>=1.1.1",
+    "uvicorn>=0.35.0",
 ]
