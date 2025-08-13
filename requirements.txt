@@ -1,0 +1,15 @@
+langchain
+langchain-anthropic
+langchain-community
+langchain-tavily
+langchain-text-splitters
+langchain_google_genai
+langgraph
+langgraph-checkpoint
+langsmith
+pydantic
+uvicorn
+fastapi
+beautifulsoup4
+python-dotenv
+grandalf
